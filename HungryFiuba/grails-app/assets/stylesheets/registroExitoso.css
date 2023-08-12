@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgb(19,34,66) 60%, #000000);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner{
+
+    text-align: center;
+    display: inline-block;
+}
+
+.estado{
+    text-align: left;
+}
+
+.term{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.imagen{
+    width: 300px;
+}
+
+h1, h2, h3,p{
+    color: #fcfcfc;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+button, a{
+    display: inline-block;
+    background-color: #4CAF50;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    margin: 0px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+
+button:hover, a:hover{
+    background-color: #347c37;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    z-index: -1;
+}
+
+footer p{
+    margin: 0;
+    padding-top: 5px;
+}
+
+.deuda-rojo{
+    color: red;
+    text-decoration: underline;
+}
+.deuda-verde{
+    color: rgb(35, 155, 55);
+    text-decoration: underline;
+}
+
+.term-cond{
+
+    border: 2px solid rgb(41, 39, 133);
+    background-color: rgb(21, 18, 51);
+    border-radius: 10px;
+    width: 50%;
+    text-align: left;
+    margin-left: 25%;
+    padding: 5px;
+}

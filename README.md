@@ -1,2 +1,17 @@
-# Desarrollo_Con_Nuevas_Tecnologias
-TP Final  - Desarrollo con Nuevas Tecnologías - Catedra Cosso - 1 Cuatrimestre 2023
+# Desarrollo con Nuevas Tecnologias - 1er Cuatrimestre - 2023
+
+#HungryFIUBA - Sistema de pedidos del comedor de la facultad.
+
+Alumnos: 
+
+Bruck, María Paula
+
+Del Rio, Juan Sebastián
+
+Ruano Frugoli, Clara
+
+-----------------------------------------------------------------------------
+
+Link al doc.
+
+https://docs.google.com/document/d/1xYjndfHK6cXpI11flNVRR-Mv7EoPgJ5g/edit?usp=sharing&ouid=114765086935339206389&rtpof=true&sd=true
